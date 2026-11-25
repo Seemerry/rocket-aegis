@@ -1,0 +1,36 @@
+# NAME: CN-Gov-Finance
+# DESC: 中国政务/公共服务 + 金融证券类域名集（域名经官方渠道核对 2026-11-25）
+# UPDAT: 由 Seemerry 维护；新增域名直接追加一行 ".域名"，并同步加入 aegis.conf 的 always-real-ip
+# 用法: DOMAIN-SET,https://raw.githubusercontent.com/Seemerry/rocket-aegis/main/cn-gov-finance.list,DIRECT
+
+# 政府类：个人所得税 App / 电子税务局（etax.chinatax.gov.cn）、交管12123（app.122.gov.cn）、
+# 社保平台（si.12333.gov.cn）、政务服务平台等全部 *.gov.cn 站点，一条后缀整体覆盖
+.gov.cn
+# 铁路 12306
+.12306.cn
+# 同花顺（主站 + App 后台域名 myhexin.com，经 whois 核实）
+.10jqka.com.cn
+.myhexin.com
+# 东方财富 / 雪球
+.eastmoney.com
+.xueqiu.com
+# 券商：中信证券(cs.ecitic.com) / 华泰证券(htsc.com 及旧域 htsc.com.cn) / 国泰海通(gtja.com) /
+# 国信证券 / 海通证券（已并入国泰海通，过渡期域名保留）
+.ecitic.com
+.htsc.com
+.htsc.com.cn
+.gtja.com
+.guosen.com.cn
+.htsec.com
+# 交易所：沪深北 + 四家期货交易所
+.sse.com.cn
+.szse.cn
+.bse.cn
+.cffex.com.cn
+.shfe.com.cn
+.dce.com.cn
+.czce.com.cn
+# 市场基础设施：中国结算 / 巨潮资讯（法定披露）/ 中国货币网（外汇交易中心）
+.chinaclear.cn
+.cninfo.com.cn
+.chinamoney.com.cn
