@@ -1,0 +1,57 @@
+# NAME: HK-Securities
+# DESC: 香港券商 App / 港股相关域名集（官方域名逐一验证于 2026-11-25）
+# UPDAT: 由 Seemerry 维护；新增券商直接追加一行 ".域名" 即可
+# 用法: DOMAIN-SET,https://raw.githubusercontent.com/Seemerry/rocket-aegis/main/hk-securities.list,港股
+
+# 富途 Futu / moomoo
+.futunn.com
+.futuhk.com
+.moomoo.com
+# 老虎证券 Tiger
+.itiger.com
+.tigerbrokers.com
+.laohu8.com
+# 长桥证券 Longbridge
+.longbridge.com
+.longbridgeapp.com
+.longbridge.global
+# 微牛证券 Webull
+.webull.com
+.webull.hk
+# 华盛证券 / 华盛通 Valuable Capital
+.vbkr.com
+.hstong.com
+.valuable.com.hk
+.aul711.com
+# 盈立证券 uSMART
+.usmartglobal.com
+.usmart.sg
+.usmartcapital.com
+# 尊嘉证券 Zinvest
+.zvsthk.com
+# 哈富证券 Hafoo
+.hafoo.com.hk
+# 盈透证券 Interactive Brokers
+.interactivebrokers.com
+.ibkr.com
+# 艾德证券 EDDID
+.eddid.com.hk
+.eddidfin.com
+# 辉立证券 Phillip / POEMS
+.poems.com.hk
+.phillip.com.hk
+# 耀才证券 Bright Smart
+.bsgroup.com.hk
+# 国泰君安国际 GTJAI
+.gtjai.com
+# 海通国际 Haitong International
+.htisec.com
+# 华泰国际 Huatai International
+.htsc.com.hk
+# 招商证券国际 CMS International
+.cmschina.com.hk
+# 广发证券(香港) GF Securities HK
+.gfgroup.com.hk
+# 港交所 / 披露易
+.hkex.com.hk
+.hkexnews.hk
