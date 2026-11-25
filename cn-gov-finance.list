@@ -14,6 +14,8 @@
 # 东方财富 / 雪球
 .eastmoney.com
 .xueqiu.com
+# 财新
+.caixin.com
 # 券商：中信证券(cs.ecitic.com) / 华泰证券(htsc.com 及旧域 htsc.com.cn) / 国泰海通(gtja.com) /
 # 国信证券 / 海通证券（已并入国泰海通，过渡期域名保留）
 .ecitic.com
