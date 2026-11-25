@@ -1,0 +1,57 @@
+# NAME: CN-Banks
+# DESC: 中国大陆银行类 App / 官网域名集（六大行、股份制、互联网银行、银联云闪付、头部城商行）
+# 核对: 2026-11-25（域名经官方渠道验证；新增银行直接追加一行 ".域名" 即可）
+# 用法: DOMAIN-SET,https://raw.githubusercontent.com/Seemerry/rocket-aegis/main/cn-banks.list,DIRECT
+
+# 工商银行
+.icbc.com.cn
+# 农业银行
+.abchina.com
+.abchina.com.cn
+# 中国银行
+.boc.cn
+.bankofchina.com
+# 建设银行
+.ccb.com
+# 交通银行
+.bankcomm.com
+# 邮储银行
+.psbc.com
+# 招商银行
+.cmbchina.com
+# 中信银行
+.citicbank.com
+# 浦发银行
+.spdb.com.cn
+# 民生银行
+.cmbc.com.cn
+# 兴业银行
+.cib.com.cn
+# 光大银行
+.cebbank.com
+# 华夏银行
+.hxb.com.cn
+# 平安（银行/口袋银行，走集团域名）
+.pingan.com
+# 广发银行
+.cgbchina.com.cn
+# 浙商银行
+.czbank.com
+# 恒丰银行
+.hfbank.com.cn
+# 渤海银行
+.cbhb.com.cn
+# 微众银行
+.webank.com
+# 网商银行
+.mybank.cn
+# 中国银联 / 云闪付
+.95516.com
+.unionpay.com
+.unionpayintl.com
+# 头部城商行（北京/上海/宁波）
+.bankofbeijing.com.cn
+.bosc.cn
+.nbcb.com.cn
+# 中国人民银行征信中心
+.pbccrc.org.cn
